@@ -1,1 +1,3 @@
-# MachineLearning_Assignment
+## MachineLearning_Assignment
+
+### Code guidelines
