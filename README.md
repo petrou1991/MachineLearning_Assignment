@@ -6,3 +6,7 @@ We downloaded the dataset locally on our machines in a file called test_set.
 
 All the csv files in the repository can be also created via the shared python code. 
 
+The final report is the file Machine_Learning_Project.pdf. 
+
+Thank you,
+Elena, Eleni, Aris
