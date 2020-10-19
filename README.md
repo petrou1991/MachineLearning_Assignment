@@ -1,5 +1,10 @@
 ## MachineLearning_Assignment
 
+### dataset guidelines
+The code requires a dataset of the following format in a txt document: 
+1st line: Document title
+2st line - end of document: Document abstract
+
 ### Code guidelines
 Please run first the MLP_val_title.ipynb file in order to retrieve the dataset. 
 We downloaded the dataset locally on our machines in a file called test_set. 
