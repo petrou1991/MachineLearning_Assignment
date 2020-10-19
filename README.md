@@ -1,6 +1,6 @@
 ## MachineLearning_Assignment
 
-### dataset guidelines
+### Dataset guidelines
 The code requires a dataset of the following format in a txt document: 
 1st line: Document title
 2st line - end of document: Document abstract
